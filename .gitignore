@@ -1,0 +1,10 @@
+# Shamelessly stolen from http://gist.github.com/114476
+# .gitignore for .NET projects
+# Thanks to Derick Bailey
+# http://www.lostechies.com/blogs/derickbailey/archive/2009/05/18/a-net-c-developer-s-gitignore-file.aspx
+# Additional Thanks to
+# - Alexey Abramov
+ 
+out
+out/*
+
